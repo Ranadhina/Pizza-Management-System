@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/PizzaManagement-master/cart/cart/pom.xml" />
+        <option value="$PROJECT_DIR$/PizzaManagement-master/user/user/pom.xml" />
+        <option value="$PROJECT_DIR$/PizzaManagement-master/pizza/pizza/pom.xml" />
+        <option value="$PROJECT_DIR$/PizzaManagement-master/eureka/eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/PizzaManagement-master/gateway/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/PizzaManagement-master/toppings/toppings/pom.xml" />
+        <option value="$PROJECT_DIR$/PizzaManagement-master/pizzatype/pizzatype/pom.xml" />
+        <option value="$PROJECT_DIR$/PizzaManagement-master/pizzaorder/pizzaorder/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18 (2)" project-jdk-type="JavaSDK" />
+</project>

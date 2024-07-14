@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pizzatype" />
+        <module name="pizza" />
+        <module name="pizzaorder" />
+        <module name="eureka" />
+        <module name="toppings" />
+        <module name="user" />
+        <module name="cart" />
+        <module name="gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cart" target="17" />
+      <module name="eureka" target="17" />
+      <module name="gateway" target="17" />
+      <module name="pizza" target="17" />
+      <module name="pizzaorder" target="17" />
+      <module name="pizzatype" target="17" />
+      <module name="toppings" target="17" />
+      <module name="user" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cart" options="-parameters" />
+      <module name="eureka" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="pizza" options="-parameters" />
+      <module name="pizzaorder" options="-parameters" />
+      <module name="pizzatype" options="-parameters" />
+      <module name="toppings" options="-parameters" />
+      <module name="user" options="-parameters" />
+    </option>
+  </component>
+</project>
